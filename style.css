@@ -1,0 +1,415 @@
+ul li{
+    list-style-type: none;
+    display: inline-block;
+    text-transform: capitalize;
+    padding: 0px 20px;
+    margin-top: 15px;
+}
+ul{
+    text-align: right;
+    margin-top: 15px;
+}
+.container-width{
+    width: 1100px;
+    margin: 0 auto;
+}
+.header-section{
+    background: url(image/background1.png) no-repeat;
+    padding-bottom: 670px;
+    
+}
+.study{
+    color: #43cb83;
+    border-bottom: 1px solid #43cb83;
+}
+.banner-heading{
+    margin-top: 300px;
+    color: #43cb83;
+    font-weight: bold;
+    font-size: 30px;
+    padding-right: 150px;
+}
+.banner-description{
+    font-size: 16px;
+    text-transform: capitalize;
+    margin-top: 10px;
+    padding-right: 150px;
+}
+.banner-btn{
+    padding: 10px 30px;
+    border: none;
+    background-color: #43cb83;
+    border-radius: 50px;
+    margin-top: 20px;
+    
+}
+
+
+
+
+
+
+.card-section{
+    margin-top: -130px;
+}
+.card-image1{
+    background-color: #f1e3fc;
+    height: 300px;
+    text-align: center;
+}
+.card-image2{
+    background-color: #e3fcfa;
+    height: 300px;
+    text-align: center;
+}
+.card-image3{
+    background-color: #fcf0e3;
+    height: 300px;
+    text-align: center;
+}
+.card-image4{
+    background-color: #fceee3;
+    height: 300px;
+    text-align: center;
+}
+.card-image5{
+    background-color: #f3fce3;
+    height: 300px;
+    text-align: center;
+}
+.card-image6{
+    background-color: #e3f3fc;
+    height: 300px;
+    text-align: center;
+}
+
+.image-design{
+    display: flex;
+    text-align: center;
+    display: inline-block;
+    padding-top: 100px;
+}
+.card-text{
+    margin-top: 40px;
+    text-transform: capitalize;
+    color: #000000;
+    font-weight: bold;
+}
+.secound-row{
+    margin-top: 30px;
+}
+
+
+
+
+
+
+.learning-section{
+    height: 1000px;
+    padding-top: 100px;
+    background: url(image/background3.png) no-repeat;
+    margin-top: -100px;
+}
+.learning-row{
+    margin-top: 100px;
+}
+.learning-heading{
+    font-size: 45px;
+    font-weight: bold;
+    margin-top: 30px;
+    text-transform: capitalize;
+    margin-bottom: 30px;
+    color: #43cb83;
+}
+.learning-description1{
+    font-size: 18px;
+    text-transform: capitalize;
+    padding-right: 150px;
+}
+.learning-description2{
+    font-size: 18px;
+    text-transform: capitalize;
+    padding-right: 150px;
+}
+.learning-meain{
+    width: 630px;
+    height: 500px;
+    margin-top: 30px;
+}
+.heading-4000{
+    font-size: 55px;
+    font-weight: bold;
+    color: #ffba00;
+}
+.description-4000{
+    font-size: 30px;
+    color: #ffba00;
+    margin-top: -20px;
+    font-weight: 300;
+}
+.heading-courses{
+    font-size: 55px;
+    font-weight: bold;
+    color: #ff5f72;
+}
+.description-courses{
+    font-size: 30px;
+    color: #ff5f72;
+    margin-top: -20px;
+    font-weight: 300;
+}
+.heading-hours{
+    font-size: 55px;
+    font-weight: bold;
+    color: #43cb83;
+}
+.description-hours{
+    font-size: 30px;
+    color: #43cb83;
+    margin-top: -20px;
+    font-weight: 300;
+}
+
+
+
+
+
+
+.work-trail{
+    font-size: 18px;
+    text-transform: capitalize;
+    margin-left: 60px;
+    margin-top: 170px;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+}
+.heading{
+    font-size: 30px;
+    text-transform: capitalize;
+    margin-left: 60px;
+    margin-top: 0px;
+    font-weight: bold;
+}
+.free{
+    color: red;
+}
+.work-section{
+    background: url(image/background2.png) no-repeat;
+    background-color: #f1e3fc;
+    height: 400px;
+    
+}
+.form-design{
+    border: none;
+    border-bottom: 1px solid black;
+    width: 360px;
+    background: none;
+    margin-bottom: 30px;
+    padding-bottom: 10px;
+}
+
+.form{
+   margin-top: -100px; 
+   background: url(image/form-background.png) no-repeat;
+   padding: 30px;
+   box-shadow: 0px 0px 10px 3px #dddddd;
+   
+}
+
+.form-heading{
+    font-size: 30px;
+    letter-spacing: 10px;
+    text-transform: capitalize;
+    text-align: center;
+    margin-bottom: 20px;
+}
+.form-btn{
+    border: none;
+    padding: 10px 30px;
+    border-radius: 50px;
+    color: #43cb83;
+}
+.call-us{
+    padding: 0px;
+    margin: 0px;
+}
+.call-section{
+    margin-top: 20px;
+}
+.account{
+    text-transform: capitalize;
+    margin-top: 20px;
+}
+
+
+
+
+
+
+.our-university{
+    margin-top: 250px;
+    margin-bottom: 100px;
+}
+.university-heading{
+    font-size: 30px;
+    font-weight: bold;
+    text-transform: capitalize;
+    color: #43cb83;
+    margin-bottom: 10px;
+}
+.university-description{
+    font-size: 16px;
+    text-transform: capitalize;
+    margin-bottom: 100px;
+    padding-right: 100px;
+}
+.post{
+    padding: 10px 30px;
+    background-color: #43cb83;
+    border: none;
+    border-radius: 50px;
+}
+.middle-row-design{
+    margin-top: 50px;
+}
+.france-heading{
+    font-size: 30PX;
+    font-weight: bold;
+    text-transform: capitalize;
+    margin-bottom: 10PX;
+
+}
+.france-description{
+    font-size: 18PX;
+    text-transform: capitalize;
+    padding-right: 30PX;
+}
+.heart{
+    font-size: 20px;
+    color: #5a6e79; 
+    margin-left: 0px; 
+}
+.icon-text{
+    margin-top: -3px;
+    font-size: 20px;
+    margin-left: -25px;
+}
+.comment{
+    font-size: 20px;
+    color: #5a6e79;
+    margin-left: -50px; 
+}
+.comment-icon{
+    margin-top: -3px;
+    font-size: 20px;
+    margin-left: -75px;
+
+}
+.november{
+    text-align: right;
+    padding-right: 50PX;
+}
+
+
+
+
+
+
+
+.footer-section{
+    background-color: #252c3a;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    margin-top: 30px;
+}
+.footer-form{
+    width: 295px;
+    height: 42px;
+    text-transform: capitalize;
+    padding-left: 20px;
+    
+}
+.forum{
+    font-size: 20px;
+    color: #9e9d9d;
+    text-transform: capitalize;
+    padding-right: 25px;
+    font-weight: 200;
+    margin-bottom: 30px;
+}
+.get-healp{
+    height: 42px;
+    background-color: #ffffff;
+    text-align: center;
+    border: none;
+    background-color: #43cb83;
+}
+.footer-logo-description{
+    font-size: 16px;
+    text-transform: capitalize;
+    color: #9e9d9d;
+    margin-top: 10px;
+}
+.footer-icon{
+    padding: 20px;
+    color: #4a4a4a;
+    font-size: 26px;
+    padding-left: 0px !important;
+}
+.collum2-heading{
+    font-size: 24px;
+    color: #ffffff;
+    margin-bottom: 40px;
+
+}
+.respondive{
+    font-size: 16px;
+    text-transform: capitalize;
+    color: #9e9d9d;
+    margin-bottom: 25px;
+}
+.just-now{
+    font-weight: 300;
+    color: #353434;
+}
+.collum3-heading{
+    font-size: 24px;
+    color: #ffffff;
+    margin-bottom: 40px;
+}
+.plans{
+    font-size: 16px;
+    text-transform: capitalize;
+    color: #9e9d9d;
+    margin-bottom: 25px;
+}
+.suppor-forum{
+    font-size: 24px;
+    color: #ffffff;
+    margin-bottom: 40px;
+    text-transform: uppercase;
+}
+.footer-image{
+    margin-bottom: 35px;
+}
+
+
+
+
+
+.coypright-section{
+    background-color: #1d232e;
+    z-index: -1;
+}
+.copyriht-design ul li{
+    display: inline-block;
+    text-align: right;
+    cursor: pointer;
+    text-transform: capitalize;
+    color: #9e9d9d;
+}
+.copy-right{
+    text-transform: capitalize;
+    margin-top: 30px;
+    color: #9e9d9d;
+}
